@@ -1,0 +1,6 @@
+{
+  "name": "Star Coin Convert",
+  "description": "Conversor de moedas com taxas atualizadas em tempo real via ExchangeRate-API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
